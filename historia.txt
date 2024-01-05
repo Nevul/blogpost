@@ -1,0 +1,10 @@
+Este es un mensaje introductorio.
+
+Aquí se evaluarán ciertos cambios y con ello se analizará
+el sistema de control de versiones.
+
+Soy Alex, tengo 28 años y me gusta estudiar temas de ciberseguridad
+y redes de telecomunicaciones.
+
+Tengo pasiones por la fotografía y la edición.
+Sin embargo, son actividades que descuidado por el momento.
