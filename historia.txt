@@ -7,5 +7,4 @@ Soy Alex, tengo 28 años y me gusta estudiar temas de ciberseguridad
 y redes de telecomunicaciones., además he empezado a indagar sobre
 Análisis de datos en relación con Python.
 
-Tengo pasiones por la fotografía y la edición.
-Sin embargo, son actividades que descuidado por el momento.
+Ya no le dedico mucho tiempo a la fotografía y la edición.
