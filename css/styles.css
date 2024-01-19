@@ -18,6 +18,7 @@ body{
 #container p{
     text-align: justify;
     color: rgb(227, 163, 42);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #container h1{
