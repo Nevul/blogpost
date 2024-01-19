@@ -1,5 +1,25 @@
-body {
-    color: darkgoldenrod;
+body{
+    color: rgb(17, 185, 227);
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    font-size: 16px;
+}
+
+#container{
+    width: 75%;
+    padding: 1em;
+    text-align: left;
+    border: 1px dashed rgb(234, 173, 42);
+    margin: 0 auto;
+}
+
+#container p{
+    text-align: justify;
+    color: rgb(227, 163, 42);
+}
+
+#container h1{
+    font-size: 20px;
 }
