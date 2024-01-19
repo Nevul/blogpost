@@ -9,17 +9,34 @@ body{
 
 #container{
     width: 75%;
-    padding: 1em;
+    padding: 0em;
     text-align: left;
-    border: 1px dashed rgb(234, 173, 42);
+    border: 3px dashed rgb(234, 173, 42);
     margin: 0 auto;
 }
 
 #container p{
     text-align: justify;
     color: rgb(227, 163, 42);
+    padding:0 20px;
 }
 
 #container h1{
     font-size: 20px;
+    padding:0 20px;
+}
+
+#cabecera{
+    background: rgb(237, 150, 9);
+    box-shadow: 0 5px 15px 0 rgb(133, 133, 133);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+    padding-left: 1em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
