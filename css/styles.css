@@ -19,6 +19,7 @@ body{
     text-align: justify;
     color: rgb(227, 163, 42);
     padding:0 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 #container h1{
