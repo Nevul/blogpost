@@ -4,9 +4,10 @@ Aquí se evaluarán ciertos cambios y con ello se analizará
 el sistema de control de versiones.
 
 Soy Alex, tengo 28 años y me gusta estudiar temas de ciberseguridad
-y redes de telecomunicaciones., además he empezado a indagar sobre
-Análisis de datos en relación con Python.
+y redes de telecomunicaciones.
 
-Ya no le dedico mucho tiempo a la fotografía y la edición.
+Tengo pasiones por la fotografía y la edición.
+Sin embargo, son actividades que he descuidado por el momento.
 
-Mi objetivo es trabajar remotamente, pero necesito especializarme para ello.
+En este momento estoy realizando un artículo científico de mi tesis y
+también estoy desarrollando un sitio web de cursos online.
