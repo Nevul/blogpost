@@ -1,5 +1,5 @@
 body{
-    color: rgb(17, 227, 35);
+    color: rgb(22, 24, 22);
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     margin: 0;
@@ -17,7 +17,6 @@ body{
 
 #container p{
     text-align: justify;
-    color: rgb(227, 163, 42);
     padding:0 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
