@@ -12,7 +12,8 @@ body {
     padding: 0em;
     text-align: left;
     border: 3px dashed rgb(148, 42, 234);
-    margin: 3% auto;
+    margin: auto;
+    margin-top: 3%;
 }
 
 #container p {
