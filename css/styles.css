@@ -1,4 +1,4 @@
-body{
+body {
     color: rgb(22, 24, 22);
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -7,7 +7,7 @@ body{
     font-size: 16px;
 }
 
-#container{
+#container {
     width: 75%;
     padding: 0em;
     text-align: left;
@@ -15,18 +15,18 @@ body{
     margin: 0 auto;
 }
 
-#container p{
+#container p {
     text-align: justify;
-    padding:0 20px;
+    padding: 0 20px;
     font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-#container h1{
+#container h1 {
     font-size: 20px;
-    padding:0 20px;
+    padding: 0 20px;
 }
 
-#cabecera{
+#cabecera {
     background: rgb(237, 150, 9);
     box-shadow: 0 5px 15px 0 rgb(133, 133, 133);
     color: white;
@@ -35,8 +35,18 @@ body{
     padding: 0.5em;
 }
 
-#cabecera #tagline{
+#cabecera #tagline {
     padding-left: 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+footer {
+    background: rgb(172, 171, 171);
+    text-align: center;
+    font-size: 25px;
+    width: 75%;
+    margin: 0 auto;
+    padding: 0.2em 0;
+    color: rgb(255, 255, 255);
 }
