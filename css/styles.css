@@ -11,8 +11,8 @@ body{
     width: 75%;
     padding: 0em;
     text-align: left;
-    border: 3px dashed rgb(234, 173, 42);
-    margin: 0 auto;
+    border: 3px dashed rgb(148, 42, 234);
+    margin: 3% auto;
 }
 
 #container p{
@@ -26,17 +26,29 @@ body{
     padding:0 20px;
 }
 
+#post{
+    background: white;
+    padding: 1em;
+}
+
 #cabecera{
-    background: rgb(237, 150, 9);
+    background: rgb(148, 42, 234);
     box-shadow: 0 5px 15px 0 rgb(133, 133, 133);
     color: white;
     font-weight: bold;
+    font-size: 20px;
     margin: 0;
-    padding: 0.5em;
+    padding: 0.5em 0.5em 0.5em 1em;
 }
 
 #cabecera #tagline{
     padding-left: 1em;
     font-weight: normal;
     font-size: 0.8em;
+}
+
+#cabecera #logo{
+    width: 30px;
+    vertical-align: middle;
+    margin-right: 10px;
 }
