@@ -1,6 +1,6 @@
 # Blogpost LxNevul
 
-![]()<img src="images/Logo.jpg" width="20%">
+![]()<img src="https://i.imgur.com/INy97aR.jpg" width="20%">
 
 Este Blogpost está destinado a poner en práctica comandos y procedimientos de Git y GitHub.
 
