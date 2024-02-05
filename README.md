@@ -25,9 +25,9 @@ El proyecto se enfoca en proporcionar una comprensión exhaustiva de los comando
 
 Pueden contactarme a través de mi [Linkedin] o mi correo alexivan.code@gmail.com
 
-> **Nota:** Este es un proyecto en desarrollo por lo que habrán cambios periódicamente.
+> ***Nota:** Este es un proyecto en desarrollo por lo que habrán cambios periódicamente.*
 
 [netsocial_1]: https://www.facebook.com/lxnevul "Facebook"
 [netsocial_2]: https://www.instagram.com/lxnevul "Instagram"
 [netsocial_3]: https://platzi.com/p/lxnevul "Platzi"
-[Linkedin]: https://www.linkedin.com/in/alexivan-code/ "Linkedin"
+[Linkedin]: https://www.linkedin.com/in/alexivan-code "Linkedin"
