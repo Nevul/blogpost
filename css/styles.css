@@ -27,13 +27,17 @@ body {
     padding: 0 20px;
 }
 
-#post{
+#post {
     background: white;
     padding: 1em;
     text-align: center;
 }
 
-#cabecera{
+#post p #test-amend {
+    color: rgb(20, 82, 175);
+}
+
+#cabecera {
     background: rgb(148, 42, 234);
     box-shadow: 0 5px 15px 0 rgb(74, 72, 72);
     color: white;
@@ -49,7 +53,7 @@ body {
     font-size: 0.8em;
 }
 
-#cabecera #logo{
+#cabecera #logo {
     width: 30px;
     vertical-align: middle;
     margin-right: 10px;
